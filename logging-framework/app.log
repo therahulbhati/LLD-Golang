@@ -1,0 +1,25 @@
+[ERROR] main: 2024-11-24T19:23:46+05:30 2024-11-24T19:23:46+05:30 2024-11-24T19:23:46+05:30 This is an error message
+[INFO] main: 2024-11-24T19:23:46+05:30 2024-11-24T19:23:46+05:30 This is an info message
+[DEBUG] main: 2024-11-24T19:23:46+05:30 This is a debug message
+[ERROR] main: 2024-11-24T19:25:29+05:30 This is an error message
+[INFO] main: 2024-11-24T19:25:56+05:30 2024-11-24T19:25:56+05:30 This is an info message
+[DEBUG] main: 2024-11-24T19:25:56+05:30 This is a debug message
+[ERROR] main: 2024-11-24T19:26:06+05:30 2024-11-24T19:26:03+05:30 2024-11-24T19:26:03+05:30 This is an error message
+[INFO] main: 2024-11-24T19:26:06+05:30 This is an info message
+[DEBUG] main: 2024-11-24T19:26:06+05:30 This is a debug message
+[ERROR] main: 2024-11-24T19:29:27+05:30 2024-11-24T19:27:20+05:30 This is an error message
+[ERROR] main: 2024-11-24T19:29:57+05:30 This is an error message
+[INFO] main: 2024-11-24T19:29:57+05:30 This is an info message
+[DEBUG] main: 2024-11-24T19:29:57+05:30 This is a debug message
+[ERROR] main: 2024-11-24T19:37:13+05:30 This is an error message
+[INFO] main: 2024-11-24T19:37:13+05:30 This is an info message
+[DEBUG] main: 2024-11-24T19:37:13+05:30 This is a debug message
+[ERROR] main: 2024-11-24T19:38:22+05:30 This is an error message
+[INFO] main: 2024-11-24T19:38:22+05:30 This is an info message
+[DEBUG] main: 2024-11-24T19:38:22+05:30 This is a debug message
+[ERROR] main: 2024-11-24T19:40:05+05:30 This is an error message
+[INFO] main: 2024-11-24T19:40:05+05:30 This is an info message
+[DEBUG] main: 2024-11-24T19:40:05+05:30 This is a debug message
+[ERROR] main: 2024-11-24T19:41:45+05:30 This is an error message
+[INFO] main: 2024-11-24T19:41:45+05:30 This is an info message
+[DEBUG] main: 2024-11-24T19:41:45+05:30 This is a debug message

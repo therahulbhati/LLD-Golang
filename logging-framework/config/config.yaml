@@ -1,0 +1,6 @@
+time_format: "2006-01-02T15:04:05Z07:00"
+log_levels:
+  INFO: "console"
+  DEBUG: "file"
+  ERROR: "inmemory"
+file_path: "app.log"
